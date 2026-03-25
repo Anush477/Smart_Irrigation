@@ -54,3 +54,7 @@ The web interface shows real-time sensor values and allows control of the water 
 
 ## License
 This project is open-source and available under the MIT License.
+## Contributors
+
+- AnoobKrishna07 (Original Owner)
+- Anush477: https://github.com/Anush477/smart-irrigation-project
